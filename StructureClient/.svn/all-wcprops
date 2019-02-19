@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/XuxuTCP/!svn/ver/2/StructureTcp/StructureClient
+END
+client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/XuxuTCP/!svn/ver/3/StructureTcp/StructureClient/client.cpp
+END
+StructureClient.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/XuxuTCP/!svn/ver/2/StructureTcp/StructureClient/StructureClient.vcxproj.filters
+END
+StructureClient.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/XuxuTCP/!svn/ver/2/StructureTcp/StructureClient/StructureClient.vcxproj
+END

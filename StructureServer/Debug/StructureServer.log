@@ -1,0 +1,4 @@
+﻿  server.cpp
+j:\xu_hsu\201901\xuxutcp\structuretcpselect\structureserver\server.cpp(239): warning C4018: “<”: 有符号/无符号不匹配
+  StructureServer.vcxproj -> J:\XU_HSU\201901\XuxuTCP\StructureTcpSelect\Debug\StructureServer.exe
+  StructureServer.vcxproj -> J:\XU_HSU\201901\XuxuTCP\StructureTcpSelect\Debug\StructureServer.pdb (Full PDB)
